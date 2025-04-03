@@ -155,7 +155,8 @@ if (!isset($_SESSION['rol']) || $_SESSION['rol'] != 'tecnico') {
     <!-- Main content area -->
     <div class="main-content">
         <h2>Bienvenido, <?php echo $_SESSION['username']; ?></h2>
-        <p>Este es el panel para técnicos. Aquí puedes agregar contenido como listas de tareas, formularios o información relevante.</p>
+        <p>Este es el panel para técnicos. Aquí puedes agregar contenido como listas de tareas, formularios o 
+            información relevante.</p>
     </div>
 
 

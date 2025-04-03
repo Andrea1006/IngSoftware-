@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
-$db_username = "root"; // Cambia según tu configuración
-$db_password = ""; // Cambia según tu configuración
+$db_username = "root";
+$db_password = "";
 $database = "login_system";
 
 try {
